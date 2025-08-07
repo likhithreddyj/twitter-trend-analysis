@@ -1,38 +1,40 @@
-# Twitter Trend Analysis 📊
+# 🐦 Twitter Trend Analysis Project
 
-This project focuses on analyzing trending topics on Twitter using Natural Language Processing (NLP). It includes sentiment analysis and keyword extraction, visualized using Python libraries.
+This is a beginner-friendly data analysis project using sentiment classification and visualization based on Twitter data.
 
-## 🔧 Tools & Technologies
-- Python
-- Tweepy (for Twitter API)
-- NLTK
-- Pandas
-- Matplotlib
-- Seaborn
+## 📊 Project Overview
 
-## 📌 Features
-- Collected live tweets using Tweepy
-- Cleaned and preprocessed tweet text
-- Performed sentiment analysis (positive/negative/neutral)
-- Visualized sentiment trends and word clouds
+- Loaded sample Twitter sentiment dataset (`positive`, `neutral`, `negative`)
+- Visualized sentiment distribution using count plots
+- Built with Python, Pandas, Matplotlib, and Seaborn
 
-## 📁 Folder Structure
-- `data/` – Raw tweet data
-- `notebooks/` – Jupyter notebooks with code
-- `images/` – Word clouds and charts
-- `README.md` – Project documentation
+## 📁 Files Included
 
-## 📈 Sample Output
-*(Add screenshots here if available)*
+- `twitter_sentiment_data.csv` – Sample tweet dataset  
+- `twitter_sentiment_analysis.ipynb` – Colab notebook with analysis
 
-## 💡 Future Improvements
-- Automate with scheduled tweet fetch
-- Add dashboard using Streamlit or Power BI
+## 🚀 Tools Used
+
+- Python (Pandas, Seaborn, Matplotlib)
+- Google Colab
+- GitHub
+
+## ✅ Outcomes
+
+- Demonstrated ability to clean and analyze data
+- Created visualizations for sentiment trends
+- Practiced version control and GitHub collaboration
 
 ---
 
-## 👨‍💻 Author
-Likhith Reddy J  
-Aspiring Data Analyst | Python | SQL | Power BI  
-[LinkedIn Profile](https://www.linkedin.com/in/likhith-reddy-data-analyst)
+### 💼 Ideal For:
+- Data Analyst Internship portfolio
+- Academic project showcase
+- Learning basic data visualization and sentiment analysis
 
+---
+
+### 🔗 Connect with Me
+
+- 📧 Email: likhithreddyj6@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/likhith-reddy-data-analyst)
